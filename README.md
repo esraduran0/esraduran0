@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Esra! 👋
 
-<!--
-**esraduran0/esraduran0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Master's student in **Information and Communication Systems** at **TUHH (Hamburg University of Technology)**. I have a background in **Electrical and Electronics Engineering** (B.Sc.) and I'm passionate about transitioning into the field of software development.
 
-Here are some ideas to get you started:
+🌱 **Currently Learning**  
+- Python  
+- Web technologies (HTML, CSS, JavaScript, PHP, Laravel)  
+- Cybersecurity basics  
+- Software Engineering concepts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Previously**  
+- Interned at a startup where I contributed to web interface design  
+- Worked with PHP, Laravel, HTML, and CSS
+
+💡 **Exploring**  
+- Backend development  
+- Cybersecurity  
+- Mobile applications  
+
+📫 **Let's Connect**  
+- [LinkedIn](https://www.linkedin.com/in/esra-duran/) *(replace with your real link)*  
+- Location: Hamburg, Germany
+
+⚡ **Fun fact**  
+I enjoy combining technical skills with creativity and constantly seek new challenges to grow as a developer.
+
+---
+
+_This profile is a work in progress as I grow and share my learning journey on GitHub. Stay tuned!_
