@@ -18,7 +18,7 @@ I'm currently a Master's student in **Information and Communication Systems** at
 - Mobile applications  
 
 📫 **Let's Connect**  
-- [LinkedIn](https://www.linkedin.com/in/esra-duran/) *(replace with your real link)*  
+- [LinkedIn](https://www.linkedin.com/in/esra-duran/)
 - Location: Hamburg, Germany
 
 ⚡ **Fun fact**  
